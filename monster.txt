@@ -1,2 +1,6 @@
 hhhhh
+<<<<<<< HEAD
 this is master 
+=======
+this is master
+>>>>>>> test2
